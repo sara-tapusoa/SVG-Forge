@@ -1,0 +1,17 @@
+# Node logs
+*.log
+*.log.*
+
+# Dependency directories
+node_modules/
+
+# Build artifacts
+dist/
+out/
+code.js
+
+# NPM debug files
+npm-debug.log
+
+# Environment variables
+.env
